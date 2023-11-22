@@ -1,0 +1,19 @@
+{
+  "name": "oresin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogorman89/oresin.git"
+  },
+  "author": "Ian O'Gorman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogorman89/oresin/issues"
+  },
+  "homepage": "https://github.com/ogorman89/oresin#readme"
+}
